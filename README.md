@@ -2,9 +2,9 @@
 The main objective is to first design a system to detect driver’s drowsiness by continuously monitoring the drivers eyes. The system works in various lighting conditions and alert the driver on the detection of drowsiness by using buzzer or alarm. Also used a espeak which is software speech synthesizer in the program.
 
 # System requirements
- A good CPU and a GPU with atleast 8GB memory.
- Atleast 8GB of RAM.
- Active internet connection to download the pretarined model.
+ * A good CPU and a GPU with atleast 8GB memory.
+ * Atleast 8GB of RAM.
+ *Active internet connection to download the pretarined model.
  
  
 # Note:
