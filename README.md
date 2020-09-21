@@ -15,6 +15,14 @@ https://github.com/italojs/facial-landmarks-recognition
 * tkinter(for the user interface)
 
 # This reprository contains:
+* A documentation pdf file.
+* drowsiness_detection_EAR.py file which is the  python program for drowsiness detection using EAR algorithm.
+* yawn_detect.py file which is the  python program for yawn detection.
+* EAR_and_yawn_detect.py file which is the  python program for yawn detection and drowsiness detection.
+* UI_using_tkinter.py file which is the  python program which is the  User interface for the above mentioned programs.
+
+
+
 
 
 `
