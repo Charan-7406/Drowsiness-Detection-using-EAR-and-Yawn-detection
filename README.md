@@ -1,5 +1,5 @@
 # Drowsiness-Detection
-The main objective is to first design a system to detect driver’s drowsiness by continuously monitoring the drivers eyes. The system works in various lighting conditions and alert the driver on the detection of drowsiness by using buzzer or alarm.
+The main objective is to first design a system to detect driver’s drowsiness by continuously monitoring the drivers eyes. The system works in various lighting conditions and alert the driver on the detection of drowsiness by using buzzer or alarm. Also used a espeak which is software speech synthesizer in the program.
 
 # Note:
 I have made a  yawn detection program which is not been mentioned in the documentation pdf,and integrated this yawn detection module with the drowsiness detection. The program is named as EAR and yawn detection.py .
